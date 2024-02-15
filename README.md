@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maaz0313
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning Wordpress
+- 🌱 I’m currently learning Laravel 10
 - 💞️ I’m looking to collaborate on PHP
 - 📫 How to reach me ...
 -- maaztajammul63@gmail.com
